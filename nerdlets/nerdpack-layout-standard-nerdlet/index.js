@@ -142,7 +142,7 @@ export default class NerdpackLayoutTBone extends React.Component {
                 gapType={Stack.GAP_TYPE.NONE}
               >
                 <StackItem>
-                  <h4 className="empty-state-header">Column 2</h4>
+                  <h4 className="empty-state-header">Column 3</h4>
                 </StackItem>
                 <StackItem>
                   <p className="empty-state-description">
