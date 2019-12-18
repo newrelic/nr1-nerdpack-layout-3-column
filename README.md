@@ -1,4 +1,4 @@
-# T-bone layout design nerdpack
+# 3 column layout design nerdpack
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/nr1-nerdpack-layout-3-column?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/nr1-nerdpack-layout-3-column/badge.svg)](https://snyk.io/test/github/newrelic/nr1-nerdpack-layout-3-column)
 
 This nerdpack serves as a boilerplate to developers building on the New Relic One platform. In order to use this layout for your next project, following the "Getting started" instructions below and then replace the dummy content in `nerdlet/index.js` with your content.
