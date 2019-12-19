@@ -1,9 +1,11 @@
-# 3 column layout design nerdpack
+# nr1-nerdpack-layout-3-column
+
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/nr1-nerdpack-layout-3-column?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/nr1-nerdpack-layout-3-column/badge.svg)](https://snyk.io/test/github/newrelic/nr1-nerdpack-layout-3-column)
 
 This nerdpack serves as a boilerplate to developers building on the New Relic One platform. In order to use this layout for your next project, following the "Getting started" instructions below and then replace the dummy content in `nerdlet/index.js` with your content.
 
 #### What's included?
+
 - JSX to implement this layout
 - CSS to improve the styling and provide some basic UX help
 - Utility classes for things like making an element full width or full height.
@@ -19,15 +21,19 @@ Since this nerdpack is just a boilerplate for applications built on New Relic On
 This project is distributed under the [Apache 2 license](LICENSE).
 
 ### What do you need to make this work?
+
 Nothing! Just follow the getting started instructions below :).
 
 ### Getting started
+
 1. First, ensure that you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [NPM](https://www.npmjs.com/get-npm) installed. If you're unsure whether you have one or both of them installed, run the following command(s) (If you have them installed these commands will return a version number, if not, the commands won't be recognized):
 ```bash
 git --version
 npm -v
 ```
+
 2. Next, install the [NR1 CLI](https://one.newrelic.com/launcher/developer-center.launcher) by going to [this link](https://one.newrelic.com/launcher/developer-center.launcher) and following the instructions (5 minutes or less) to install and setup your New Relic development environment.
+
 3. Next, to clone this repository and run the code locally against your New Relic data, execute the following command:
 
 ```bash
@@ -63,7 +69,7 @@ We encourage you to bring your experiences and questions to the [Explorers Hub](
 
 New Relic hosts and moderates an online forum where customers can interact with New Relic employees as well as other customers to get help and share best practices. Like all official New Relic open source projects, there's a related Community topic in the New Relic Explorers Hub. You can find this project's topic/threads here:
 
-https://discuss.newrelic.com/t/3-column-layouts/88605
+[https://discuss.newrelic.com/t/3-column-layouts/88605](https://discuss.newrelic.com/t/3-column-layouts/88605)
 
 ### Issues / Enhancement Requests
 
