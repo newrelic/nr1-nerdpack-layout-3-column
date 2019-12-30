@@ -88,17 +88,6 @@ export default class NerdpackLayoutTBone extends React.Component {
                 <StackItem>
                   <h4 className="empty-state-header">Column 1</h4>
                 </StackItem>
-                <StackItem>
-                  <p className="empty-state-description">
-                    To use this layout, open up
-                    <code>nerdpack-layout-3-column-nerdlet/index.js</code> and
-                    replace dummy content with your content. Have suggestions,
-                    concerns, or ideas for how this template could be better?
-                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3-column" target="_blank"
-              rel="noopener noreferrer">submit an issue or PR :)</a>
-                    .
-                  </p>
-                </StackItem>
               </Stack>
             </main>
           </GridItem>
@@ -143,17 +132,6 @@ export default class NerdpackLayoutTBone extends React.Component {
               >
                 <StackItem>
                   <h4 className="empty-state-header">Column 3</h4>
-                </StackItem>
-                <StackItem>
-                  <p className="empty-state-description">
-                    To use this layout, open up
-                    <code>nerdpack-layout-3-column-nerdlet/index.js</code> and
-                    replace dummy content with your content. Have suggestions,
-                    concerns, or ideas for how this template could be better?
-                    Feel free to <a href="https://github.com/newrelic/nr1-nerdpack-layout-3-column" target="_blank"
-              rel="noopener noreferrer">submit an issue or PR :)</a>
-                    .
-                  </p>
                 </StackItem>
               </Stack>
             </main>
