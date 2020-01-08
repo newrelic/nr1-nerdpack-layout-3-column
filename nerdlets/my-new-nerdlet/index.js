@@ -13,7 +13,7 @@ import EmptyState from '../components/EmptyState';
 
 // https://docs.newrelic.com/docs/new-relic-programmable-platform-introduction
 
-export default class NerdpackLayoutTBone extends React.Component {
+export default class NerdpackLayout3Column extends React.Component {
   render() {
     return (
       <>
@@ -74,7 +74,7 @@ export default class NerdpackLayoutTBone extends React.Component {
           <GridItem className="primary-content-container" columnSpan={4}>
             <main className="primary-content full-height">
               {/* ⌄⌄ REPLACE THE LINE _BELOW_ WITH YOUR CONTENT ⌄⌄ */}
-              <EmptyState />
+              <EmptyState heading="Column 2" />
               {/* ^^ REPLACE THE LINE _ABOVE_ WITH YOUR CONTENT ^^ */}
             </main>
           </GridItem>
